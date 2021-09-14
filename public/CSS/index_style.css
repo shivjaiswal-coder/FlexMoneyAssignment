@@ -1,0 +1,34 @@
+body{
+    background-image: url("image/yoga.jpg");
+    
+
+background-color: #b1bfd8;
+background-image: linear-gradient(315deg, #b1bfd8 0%, #6782b4 90%);
+
+
+}
+
+
+body h3{
+    text-align:center;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+
+.jumbotron{
+    margin-top:30px;
+    max-width:500px;
+    margin: auto;
+}
+
+button{
+    margin-top:10px;
+}
+
+#both{
+    display:flex;
+}
+#age{
+    width:50%;
+}
+
